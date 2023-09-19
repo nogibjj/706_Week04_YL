@@ -1,8 +1,8 @@
 [![CI](https://github.com/nogibjj/706_Week01_YL/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/706_Week01_YL/actions/workflows/cicd.yml)
 
-# 706_Week01_YL
+# 706_Week04_YL
 
-This repository includes the main tasks for Week 1:
+This repository includes the main tasks for Week 4:
 
 * `Makefile` is a configuration file used in Unix-based systems for automating tasks and building software. It contains instructions and dependencies for compiling code, running tests, and other development tasks.
 * `.devcontainer` includes a Dockerfile and `devcontainer.json`. The `Dockerfile` within this folder specifies how the container should be built, and other settings in this directory may control development environment configurations.
@@ -15,6 +15,7 @@ This repository includes the main tasks for Week 1:
 
 ## Project description
 
+The goal is to use **GitHub Actions Matrix** build for testing at least 3 different Python versions. 
 
 ## Project environment
 
